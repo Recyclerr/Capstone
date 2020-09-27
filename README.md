@@ -11,6 +11,6 @@ Note:
 https://codebeautify.org/ untuk mempermudah pembacaan data API.
 
 List API Movie:
-a. themoviedb (https://www.themoviedb.org/)
-b. 
-c. 
+1. themoviedb (https://www.themoviedb.org/)
+2. 
+3. 
