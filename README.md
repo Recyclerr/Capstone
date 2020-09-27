@@ -1,9 +1,9 @@
 # Capstone
 Hal Yang Perlu dipelajari:
-1. Rest API
+1. RestAPI
 2. Recycleview
 3. Cardview
-5. Navigation Menu
+5. NavigationUI
 6. Glide
 7. Retrofit
 
