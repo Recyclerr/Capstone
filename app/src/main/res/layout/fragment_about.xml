@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/namaKelompok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kelompok Recycler"
+        android:layout_marginTop="200dp"
+        android:textColor="@color/colorWhite"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/hafizh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/namaKelompok"
+        android:gravity="center_horizontal"
+        android:text="Ahmad Hafizh Zahran"
+        android:textAlignment="center"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/colorWhite"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dytha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dytha Ananda W."
+        android:textColor="@color/colorWhite"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/hafizh"/>
+
+    <TextView
+        android:id="@+id/hafadz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Muhammad Hafadz Raihan"
+        android:textColor="@color/colorWhite"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/dytha"/>
+
+    <TextView
+        android:id="@+id/sela"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sela Pebriani"
+        android:textColor="@color/colorWhite"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/hafadz"/>
+
+</RelativeLayout>
