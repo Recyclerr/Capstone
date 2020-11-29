@@ -25,4 +25,10 @@
         android:name="com.example.capstoneproject.fragments.BlankFragment"
         android:label="Account"
         tools:layout="@layout/fragment_blank" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.capstoneproject.fragments.AboutFragment"
+        android:label="AboutFragment"
+        tools:layout="@layout/fragment_abouut" />
+
 </navigation>

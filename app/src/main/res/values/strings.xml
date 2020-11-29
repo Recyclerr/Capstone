@@ -38,4 +38,10 @@
     <string name="notification_text">Ayo Buka Aplikasinya!</string>
     <string name="alarm_off">Notification off</string>
     <string name="alarm_on">Notification on</string>
+    <string name="textview">TextView</string>
+    <string name="ahmad_hafizh_zahran">AHMAD HAFIZH ZAHRAN</string>
+    <string name="kelompok_recycler">Kelompok Recycler</string>
+    <string name="dytha_ananda_widhiarso">DYTHA ANANDA WIDHIARSO</string>
+    <string name="muhammad_hafadz_raihan">MUHAMMAD HAFADZ RAIHAN</string>
+    <string name="sela_pebriani">SELA PEBRIANI</string>
 </resources>
