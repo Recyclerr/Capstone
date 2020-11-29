@@ -1,14 +1,6 @@
 <resources>
-    <string name="app_name">CapstoneProject</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="Popular">Popular</string>
-    <string name="TopRated">Top Rated</string>
-    <string name="UpComing">Up Coming</string>
-    <string name="movie_thumb">Thumbnail</string>
-
-    <string name="title_activity_login">Sign in or create an account</string>
-    <string name="title_activity_main">Dashboard</string>
-
+    <string name="app_name">Recycler Movie App</string>
+    <string name="search_film">Cari Film</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="prompt_password_repeat">Password (Diulang)</string>
@@ -31,17 +23,5 @@
 
     <string name="txt_welcome">Selamat datang</string>
     <string name="btn_logout">Logout</string>
-
-    <string name="alarm_on_toast">Notification On</string>
-    <string name="alarm_off_toast">Notification Off!</string>
-    <string name="notification_title">Recycler Movie App</string>
-    <string name="notification_text">Ayo Buka Aplikasinya!</string>
-    <string name="alarm_off">Notification off</string>
-    <string name="alarm_on">Notification on</string>
-    <string name="textview">TextView</string>
-    <string name="ahmad_hafizh_zahran">AHMAD HAFIZH ZAHRAN</string>
-    <string name="kelompok_recycler">Kelompok Recycler</string>
-    <string name="dytha_ananda_widhiarso">DYTHA ANANDA WIDHIARSO</string>
-    <string name="muhammad_hafadz_raihan">MUHAMMAD HAFADZ RAIHAN</string>
-    <string name="sela_pebriani">SELA PEBRIANI</string>
+    <string name="sedang_tayang">Sedang Tayang</string>
 </resources>
