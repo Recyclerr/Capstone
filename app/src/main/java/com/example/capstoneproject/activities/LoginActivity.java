@@ -1,4 +1,4 @@
-package com.example.capstoneproject;
+package com.example.capstoneproject.activities;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -20,6 +20,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.capstoneproject.R;
 import com.example.capstoneproject.controllers.UserController;
 import com.example.capstoneproject.utils.Database;
 import com.example.capstoneproject.utils.DatabaseHelper;

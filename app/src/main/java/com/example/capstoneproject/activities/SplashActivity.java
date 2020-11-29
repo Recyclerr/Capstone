@@ -1,10 +1,10 @@
-package com.example.capstoneproject;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.capstoneproject.activities;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+
+import com.example.capstoneproject.R;
 
 public class SplashActivity extends Activity {
 
